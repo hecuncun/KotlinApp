@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="string_splash">生活有你更加精彩\n寻找属于我们的精彩生活</string>
+    <string name="default_description">生活的美好，需要你用心去发现，用眼去摄录</string>
+    <string name="activity_about_title">关于</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="fragment_zhihu_title">知乎日报</string>
+    <string name="fragment_video_title">视频推荐</string>
+    <string name="fragment_image_title">图虫摄影</string>
+    <string name="fragment_wallpaper_title">图虫壁纸</string>
+    <string name="picture_has_save_to">图片已保存至 %s 文件夹</string>
+    <string name="string_img_save_failed">图片保存失败，请重试</string>
+</resources>
